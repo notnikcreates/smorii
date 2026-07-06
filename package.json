@@ -1,0 +1,20 @@
+{
+  "name": "alaskautils",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "boxen": "^8.0.1",
+    "chalk": "^5.6.2",
+    "discord.js": "^14.26.4",
+    "dotenv": "^17.4.0",
+    "fs": "^0.0.1-security",
+    "gradient-string": "^3.0.0",
+    "json": "^11.0.0",
+    "mongoose": "^9.4.1",
+    "node.js": "^0.0.1-security",
+    "ora": "^9.3.0",
+    "path": "^0.12.7",
+    "pm2": "^6.0.14",
+    "url": "^0.11.4"
+  }
+}
